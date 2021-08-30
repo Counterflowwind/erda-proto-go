@@ -20,6 +20,7 @@ import (
 	_ "github.com/erda-project/erda-proto-go/core/services/authentication/credentials/accesskey/pb"
 	_ "github.com/erda-project/erda-proto-go/core/services/authentication/pb"
 	_ "github.com/erda-project/erda-proto-go/core/services/notify/pb"
+	_ "github.com/erda-project/erda-proto-go/core/services/permission/pb"
 	_ "github.com/erda-project/erda-proto-go/cp/pb"
 	_ "github.com/erda-project/erda-proto-go/examples/pb"
 	_ "github.com/erda-project/erda-proto-go/msp/apm/adapter/pb"
